@@ -1,1 +1,14 @@
 
+
+# Microsoft Word HTML export support folder
+
+index.fld/
+
+# Perl backup files from post-processing
+
+*.bak
+
+# macOS metadata cruft
+
+.DS_Store
+
